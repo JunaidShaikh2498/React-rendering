@@ -1,3 +1,4 @@
+/* eslint-disable react/jsx-pascal-case */
 import React from 'react'
 import Heading from './Heading.js'
 import Functional_comp from './Functional_comp.js'
