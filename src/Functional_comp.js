@@ -1,6 +1,8 @@
 import React from 'react'
 
 const Functional_comp = () => {
+
+
   return (
     <div className='funcy'>
     <h1>This is created using Functional component</h1>
