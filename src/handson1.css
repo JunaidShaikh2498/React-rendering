@@ -1,5 +1,6 @@
 body{
     background-image: linear-gradient(rgb(166, 204, 253),rgb(251, 188, 253)90%);
+    background-repeat: no-repeat;
 }
 .heading{
     text-align: center;
