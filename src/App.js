@@ -29,7 +29,7 @@ class App extends Component  {
     
     return (
       <>
-      <div className="body1">
+      
         <h1 className='heading'>Styling using Functional and Class Component</h1>
         <div className="btn_div">
           <button className='btn_f' onClick={()=>this.show_func()}>To see Styling in Functional component</button>
@@ -39,7 +39,7 @@ class App extends Component  {
           {this.state.show_fcomp? <Functional_comp/> : null}
           {this.state.show_compc? <Class_comp/>  : null}
         </div>
-      </div>
+      
       </>
     )  
   }
